@@ -1,6 +1,6 @@
 ## TRABALHO PRÁTICO 
 <Div>A seguir está a tela do aplicativo que realiza consulta em uma api. O usuário informa uma palavra contida no
-  título do livro e o app retora nome do autor, title, url e uma opção para o usúario selecionar uma "nota" de qualidade ao livro 
+  título do livro e o app retora nome do autor, titulo, url e uma opção para o usúario selecionar uma "nota" de qualidade ao livro 
   apresentado.
 </Div>
 </br>
